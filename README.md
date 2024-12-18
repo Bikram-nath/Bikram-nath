@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...flutter advance
 - 💞️ I’m looking to collaborate on ... PUBG MOBILE
 - 📫 How to reach me ...bikromnath83@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
 
 <!---
